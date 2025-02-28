@@ -1,4 +1,4 @@
-# Neural-Network-based-Signal-Integrity-Assessment
+# Machine Learning-based-Signal-Integrity-Assessment
 
 # Authors
 
